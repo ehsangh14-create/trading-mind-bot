@@ -1,4 +1,5 @@
-VERSION_LABEL = "v_no_jump_picker_2"\nimport os
+VERSION_LABEL = "v_no_jump_picker_2"
+import os
 import json
 import random
 from datetime import datetime, timedelta
